@@ -1,0 +1,60 @@
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.deps.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CopyComplete
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.deps.json
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfo.cs
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CopyComplete
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+D:\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.deps.json
+D:\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+D:\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+D:\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+D:\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfoInputs.cache
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfo.cs
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CoreCompileInputs.cache
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CopyComplete
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.dll
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+D:\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.deps.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.deps.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csprojAssemblyReference.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Models\obj\Debug\netstandard2.1\FootballStats.Data.Models.pdb

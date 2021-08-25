@@ -1,0 +1,15 @@
+﻿@model FootballStats.Web.ViewModels.Countries.CountryViewModel
+@{
+    this.TempData["Title"] = Model.Name;
+}
+
+<div class="media">
+    <img class="mr-3" src="@Model.UrlImage" alt="Generic placeholder image">
+    <div class="media-body">
+        <h5 class="mt-0">@Model.Name</h5>
+        <p>Abbreviation: @Model.Abbreviation</p>
+        <p>Footballers: @Model.FootballersCount</p>
+        <p>Leagues: @Model.LeaguesCount</p>
+        <p>Stadiums: @Model.StadiumsCount</p>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+﻿@model FootballStats.Web.ViewModels.Stadiums.StadiumViewModel
+@{
+    this.TempData["Title"] = Model.Name;
+}
+
+<div class="media">
+    <img class="mr-3" src="@Model.UrlImage" alt="Generic placeholder image">
+    <div class="media-body">
+        <h5 class="mt-0">@Model.Name</h5>
+        <p>Capacity: @Model.Capacity</p>
+        <p>Country: @Model.Country.Name</p>
+        <p>Number of teams that use this stadium: @Model.TeamsCount</p>
+    </div>
+</div>

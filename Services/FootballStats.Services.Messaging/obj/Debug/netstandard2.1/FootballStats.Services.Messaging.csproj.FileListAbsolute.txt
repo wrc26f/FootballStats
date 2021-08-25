@@ -1,0 +1,45 @@
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.deps.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.deps.json
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfo.cs
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\Downloads\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+D:\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.deps.json
+D:\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+D:\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+D:\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.AssemblyReference.cache
+D:\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfoInputs.cache
+D:\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfo.cs
+D:\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.CoreCompileInputs.cache
+D:\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+D:\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.deps.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.deps.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\bin\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Services\FootballStats.Services.Messaging\obj\Debug\netstandard2.1\FootballStats.Services.Messaging.pdb

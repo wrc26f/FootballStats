@@ -1,0 +1,36 @@
+﻿@model FootballStats.Web.ViewModels.Matches.CreateMatchInputModel
+@{
+    this.ViewData["Title"] = "Add new matches";
+    var teamItems = this.Model.TeamItems.Select(x => new SelectListItem(x.Value, x.Key.ToString()));
+}
+<h1>@this.ViewData["Title"]</h1>
+
+<form method="post" class="col-6 offset-3">
+    <div asp-validation-summary="All" class=" text-danger"></div>
+    <div class="form-group">
+        <label asp-for="HomeTeamId"></label>
+        <select asp-for="HomeTeamId" class="form-control" asp-items="teamItems"></select>
+        <span asp-validation-for="HomeTeamId" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="HomeGoals"></label>
+        <input asp-for="HomeGoals" class="form-control" />
+        <span asp-validation-for="HomeGoals" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AwayTeamId"></label>
+        <select asp-for="AwayTeamId" class="form-control" asp-items="teamItems"></select>
+        <span asp-validation-for="AwayTeamId" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AwayGoals"></label>
+        <input asp-for="AwayGoals" class="form-control" />
+        <span asp-validation-for="AwayGoals" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateMatch"></label>
+        <input asp-for="DateMatch" class="form-control" />
+        <span asp-validation-for="DateMatch" class=" text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-primary" />
+</form>

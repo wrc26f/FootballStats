@@ -1,0 +1,75 @@
+﻿@model FootballStats.Web.ViewModels.Home.IndexViewModel
+@using FootballStats.Common
+@{
+    this.ViewData["Title"] = "Home Page";
+    var matchItems = this.Model.MatchItems.Select(x => new SelectListItem(x.Value, x.Key.ToString()));
+}
+
+<div class="text-center">
+    <h1 class="display-4"> Welcome to @GlobalConstants.SystemName!</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <p>Match of the day</p>
+            <div class="card justify-content-sm-center" style="width: 22rem;">
+                <img src="match.HomeTeamLeagueUrlImage" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        match.HomeTeam.Name
+                        (homeGoals)-(awayGoals) match.AwayTeam.Name
+                    </h5>
+                    <p class="card-text">match.DateMatch</p>
+                    <a href="#" class="btn btn-primary">Details</a>
+                </div>
+            </div>
+            <br />
+            @if (this.User.IsInRole(GlobalConstants.AdministratorRoleName))
+            {
+                <select id='matchDropdown' class="form-control" asp-items="matchItems"></select>
+            }
+            <br /><hr></hr><br />
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">League</th>
+                        <th scope="col">Matches today</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var leagueItem in Model.LeagueItems)
+                    {
+                        <tr>
+                            <td>@leagueItem.LeagueName</td>
+                            <td>@leagueItem.MatchesCount</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-6">
+            <p>We have:</p>
+            <ul class="list-group">
+                <li class="list-group-item bg-info"> Footballers: @Model.FootballersCount</li>
+                <li class="list-group-item bg-light"> Teams: @Model.TeamsCount</li>
+                <li class="list-group-item bg-info"> Matches: @Model.MatchesCount</li>
+                <li class="list-group-item bg-light"> Stadiums: @Model.StadiumssCount</li>
+                <li class="list-group-item bg-info"> Leagues: @Model.LeaguesCount</li>
+                <li class="list-group-item bg-light"> Countries: @Model.CountriesCount</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>$("#matchDropdown").change(function () {
+        var matchId = $("#matchDropdown").val();
+
+        var data = { matchId: matchId };
+
+
+        $.get("/api/Price", { matchId: matchId })
+            .done(function (data) {
+                $("#price").val(data.price + ' lv');
+            });
+    });</script>
+}
+

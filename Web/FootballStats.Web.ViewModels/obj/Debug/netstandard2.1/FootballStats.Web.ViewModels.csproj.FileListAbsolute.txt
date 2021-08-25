@@ -1,0 +1,96 @@
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.deps.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CopyComplete
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.deps.json
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfo.cs
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CopyComplete
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.deps.json
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfoInputs.cache
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfo.cs
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CoreCompileInputs.cache
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CopyComplete
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.dll
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.pdb
+D:\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.deps.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.deps.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.Mapping.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Services.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.ViewModels\obj\Debug\netstandard2.1\FootballStats.Web.ViewModels.pdb

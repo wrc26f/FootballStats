@@ -1,0 +1,17 @@
+﻿@model FootballStats.Web.ViewModels.Footballers.FootballersListViewModel
+@{
+    this.ViewData["Title"] = "All footballers";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="row">
+    @foreach (var footballer in Model.FootballersList)
+    {
+        <div class="media col-6">
+            <div class="media-body">
+                <h5 class="mt-0">@footballer.FirstName @footballer.LastName</h5>
+                <p><a class="btn btn-primary" asp-controller="Footballers" asp-action="FootballerById" asp-route-id="@footballer.Id">More details</a></p>
+            </div>
+        </div>
+    }
+</div>

@@ -1,0 +1,13 @@
+﻿@model FootballStats.Web.ViewModels.Leagues.LeagueViewModel
+@{
+    this.TempData["Title"] = Model.Name;
+}
+
+<div class="media">
+    <img class="mr-3" src="@Model.UrlImage" alt="Generic placeholder image">
+    <div class="media-body">
+        <h5 class="mt-0">@Model.Name</h5>
+        <p>Country: @Model.Country.Name  <a class="btn btn-secondary" asp-controller="Countries" asp-action="CountryById" asp-route-id="@Model.Country.Id">More details for countries</a></p>
+        <p>Number of teams: @Model.TeamsCount</p>
+    </div>
+</div>

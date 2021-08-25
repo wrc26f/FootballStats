@@ -1,0 +1,115 @@
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.deps.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CopyComplete
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.genruntimeconfig.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.deps.json
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.json
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.dev.json
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CopyComplete
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.genruntimeconfig.cache
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\appsettings.json
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.deps.json
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.json
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.dev.json
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.dll
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\ref\FootballStats.Data.dll
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.pdb
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.dll
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.dll
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.dll
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.pdb
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.pdb
+D:\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.pdb
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfoInputs.cache
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfo.cs
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CoreCompileInputs.cache
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CopyComplete
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.dll
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\ref\FootballStats.Data.dll
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.pdb
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.genruntimeconfig.cache
+D:\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.deps.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.dev.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.genruntimeconfig.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.deps.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.runtimeconfig.dev.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\bin\Debug\net5.0\FootballStats.Data.Models.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csprojAssemblyReference.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.csproj.CopyComplete
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\ref\FootballStats.Data.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data\obj\Debug\net5.0\FootballStats.Data.genruntimeconfig.cache

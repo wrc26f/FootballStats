@@ -1,0 +1,32 @@
+﻿@model FootballStats.Web.ViewModels.Teams.CreateTeamInputModel
+@{
+    this.ViewData["Title"] = "Add new team";
+    var leagueItems = this.Model.LeagueItems.Select(x => new SelectListItem(x.Value, x.Key.ToString()));
+    var stadiumItems = this.Model.StadiumItems.Select(x => new SelectListItem(x.Value, x.Key.ToString()));
+}
+<h1>@this.ViewData["Title"]</h1>
+
+<form method="post" class="col-6 offset-3">
+    <div asp-validation-summary="All" class=" text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UrlImage"></label>
+        <input asp-for="UrlImage" class="form-control" />
+        <span asp-validation-for="UrlImage" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="LeagueId"></label>
+        <select asp-for="LeagueId" class="form-control" asp-items="leagueItems"></select>
+        <span asp-validation-for="LeagueId" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="StadiumId"></label>
+        <select asp-for="StadiumId" class="form-control" asp-items="stadiumItems"></select>
+        <span asp-validation-for="StadiumId" class=" text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-primary" />
+</form>

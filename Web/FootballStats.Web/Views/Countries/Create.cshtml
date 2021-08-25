@@ -1,0 +1,25 @@
+﻿@model FootballStats.Web.ViewModels.Countries.CreateCountryInputModel
+@{
+    this.ViewData["Title"] = "Add new country";
+}
+<h1>@this.ViewData["Title"]</h1>
+
+<form method="post" class="col-6 offset-3">
+    <div asp-validation-summary="All" class=" text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Abbreviation"></label>
+        <input asp-for="Abbreviation" class="form-control" />
+        <span asp-validation-for="Abbreviation" class=" text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UrlImage"></label>
+        <input asp-for="UrlImage" class="form-control" />
+        <span asp-validation-for="UrlImage" class=" text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-primary" />
+</form>

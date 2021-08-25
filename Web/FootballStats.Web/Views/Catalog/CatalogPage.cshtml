@@ -1,0 +1,65 @@
+﻿@model FootballStats.Web.ViewModels.Catalog.CatalogPageViewModel
+@{
+    this.ViewData["Title"] = "Catalog";
+    string homeGoals = "?";
+    string awayGoals = "?";
+    var leagueItems = this.Model.LeagueItems.Select(x => new SelectListItem(x.Value, x.Key.ToString()));
+}
+
+<div class="alert alert-success" role="alert">
+    Chosen date: @Model.ChosenDate.Date.ToString("d")
+</div>
+<div class="container">
+    <div class="row">
+        <form>
+            <div class=" form group col-md-12">
+                <div class="form-group">
+                    <label asp-for="ChosenDate"></label>
+                    <input asp-for="ChosenDate" class="form-control" value="@Model.ChosenDate" type="date" />
+                    <span asp-validation-for="ChosenDate" class=" text-danger"></span>
+                </div>
+                <input type="submit" class="btn btn-primary btn-sm" />
+            </div>
+        </form>
+        <form>
+            <div class="form-group">
+                <label asp-for="LeagueId"></label>
+                <select asp-for="LeagueId" class="form-control" asp-items="leagueItems"></select>
+                <span asp-validation-for="LeagueId" class=" text-danger"></span>
+            </div>
+            <input type="submit" class="btn btn-primary btn-sm" />
+        </form>
+    </div>
+</div>
+<br /><hl></hl><br />
+<div class="row">
+    @if (@Model.MatchesList.Count() == 0)
+    {
+    <p>No matches today!</p>
+    }
+    @foreach (var match in Model.MatchesList)
+    {
+        @if (match.DateMatch < DateTime.Now)
+        {
+            homeGoals = match.HomeGoals.ToString();
+            awayGoals = match.AwayGoals.ToString();
+        }
+        <div class="card" style="width: 22rem;">
+            <img src="@match.HomeTeamLeagueUrlImage" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">
+                    @match.HomeTeam.Name (@homeGoals)-(@awayGoals) @match.AwayTeam.Name
+                </h5>
+                <p class="card-text">@match.DateMatch</p>
+                <a asp-controller="Matches" asp-action="Details" asp-route-id="@match.Id" class="btn btn-primary">Details</a>
+            </div>
+        </div>
+    }
+</div>
+<nav aria-label="Page navigation example">
+    <ul class="pagination justify-content-center">
+        <li class="page-item @if (!Model.HasPreviousPage) { <text>disabled</text>}"><a class="page-link" asp-route-id="@(Model.PreviousPage)">Previous</a></li>
+        <li class="page-item disabled"><a class="page-link" asp-route-id="@(Model.PageNumber)">@Model.PageNumber</a></li>
+        <li class="page-item @if (!Model.HasNextPage) { <text>disabled</text>}"><a class="page-link" asp-route-id="@(Model.NextPage)">Next</a></li>
+    </ul>
+</nav>

@@ -1,0 +1,22 @@
+﻿@model  FootballStats.Web.ViewModels.Stadiums.StadiumsListViewModel
+@{
+    this.ViewData["Title"] = "All stadiums";
+}
+
+<h1>@this.ViewData["Title"]</h1>
+<div class="row">
+    @foreach (var stadium in Model.StadiumsList)
+    {
+        <div class="card" style="width: 22rem;">
+            <img src="@stadium.UrlImage" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">
+                    @stadium.Name
+                </h5>
+                <p class="card-text">Capacity: @stadium.Capacity</p>
+                <p><a class="btn btn-primary" asp-controller="Stadiums" asp-action="StadiumById" asp-route-id="@stadium.Id">More details for stadium</a></p>
+                <p><a class="btn btn-primary" asp-controller="Countries" asp-action="CountryById" asp-route-id="@stadium.Country.Id">View country: @stadium.Country.Name</a></p>
+            </div>
+        </div>
+    }
+</div>

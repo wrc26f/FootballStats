@@ -1,0 +1,45 @@
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.deps.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.deps.json
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfo.cs
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+D:\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.deps.json
+D:\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+D:\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+D:\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfoInputs.cache
+D:\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfo.cs
+D:\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.CoreCompileInputs.cache
+D:\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.dll
+D:\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+D:\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.deps.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.deps.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\bin\Debug\netstandard2.1\FootballStats.Data.Common.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csprojAssemblyReference.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Data\FootballStats.Data.Common\obj\Debug\netstandard2.1\FootballStats.Data.Common.pdb

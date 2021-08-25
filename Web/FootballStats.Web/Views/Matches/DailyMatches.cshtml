@@ -1,0 +1,33 @@
+﻿@model FootballStats.Web.ViewModels.Matches.MatchesListViewModel
+@{
+    this.ViewData["Title"] = "Daily Matches";
+    string homeGoals="?";
+    string awayGoals="?";
+}
+
+<h1>@this.ViewData["Title"]</h1>
+@if(@Model.MatchesList.Count()==0)
+{
+ <p>No matches today!</p>
+}
+<div class="row">
+    @foreach (var match in Model.MatchesList)
+    {
+        @if (match.DateMatch < DateTime.Now)
+        {
+            homeGoals = match.HomeGoals.ToString();
+            awayGoals = match.AwayGoals.ToString();
+        }
+        <div class="card" style="width: 22rem;">
+            <img src="@match.HomeTeamLeagueUrlImage" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">
+                    @match.HomeTeam.Name
+                (@homeGoals)-(@awayGoals) @match.AwayTeam.Name
+            </h5>
+            <p class="card-text">@match.DateMatch</p>
+            <a href="#" class="btn btn-primary">Details</a>
+        </div>
+    </div>
+}
+</div>

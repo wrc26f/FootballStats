@@ -1,0 +1,47 @@
+﻿@model FootballStats.Web.ViewModels.Matches.MatchViewModel
+@{
+    this.ViewData["Title"] = Model.HomeTeam.Name + " - " + Model.AwayTeam.Name;
+}
+<div class="row">
+    <div class="card col-4" style="width: 18rem;">
+        <img src="@Model.HomeTeam.UrlImage" class="card-img-top" alt="Generic placeholder image">
+        <div class="card-body">
+            <h5 class="card-title">@Model.HomeTeam.Name</h5>
+            <a asp-controller="Teams" asp-action="TeamById" asp-route-id="@Model.HomeTeam.Id" class="btn btn-primary">Team details</a>
+        </div>
+    </div>
+    <div class="col-4">
+        <br /><br />
+
+        @if (Model.DateMatch > DateTime.Now)
+        {
+            <h1 class="text-center">
+                <text>Starting at @Model.DateMatch</text>
+            </h1>
+        }
+        else
+        {
+            <h1 class="text-center" style="font-size:5em">
+                <b>
+                    <text> @Model.HomeGoals-@Model.AwayGoals</text>
+
+                </b>
+            </h1>
+        }
+        <div class="justify-content-center">
+            <img src="@Model.HomeTeam.Stadium.UrlImage" class="card-img-top" alt="Generic placeholder image">
+            <div class="card-body ">
+                <h5 class="card-title">@Model.HomeTeam.Stadium.Name</h5>
+                <h5 class="card-title">Capacity: @Model.HomeTeam.Stadium.Capacity</h5>
+                <a asp-controller="Stadiums" asp-action="StadiumById" asp-route-id="@Model.HomeTeam.Stadium.Id" class="btn btn-primary">Details</a>
+            </div>
+        </div>
+    </div>
+    <div class="card col-4" style="width: 18rem;">
+        <img src="@Model.AwayTeam.UrlImage" class="card-img-top" alt="Generic placeholder image">
+        <div class="card-body">
+            <h5 class="card-title">@Model.AwayTeam.Name</h5>
+            <a asp-controller="Teams" asp-action="TeamById" asp-route-id="@Model.AwayTeam.Id" class="btn btn-primary">Team details</a>
+        </div>
+    </div>
+</div>

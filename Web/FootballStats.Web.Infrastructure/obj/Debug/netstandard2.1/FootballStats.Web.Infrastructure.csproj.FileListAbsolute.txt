@@ -1,0 +1,45 @@
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.deps.json
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\OneDrive\Работен плот\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.deps.json
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\Downloads\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.deps.json
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfo.cs
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+D:\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.deps.json
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\Downloads\New folder (2)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.deps.json
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\bin\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.dll
+C:\Users\User\Downloads\New folder (4)\FootballStats\Web\FootballStats.Web.Infrastructure\obj\Debug\netstandard2.1\FootballStats.Web.Infrastructure.pdb

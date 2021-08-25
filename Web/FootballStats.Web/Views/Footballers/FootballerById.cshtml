@@ -1,0 +1,14 @@
+﻿@model FootballStats.Web.ViewModels.Footballers.FootballerViewModel
+@{
+    this.TempData["Title"] = Model.FirstName + " " + Model.LastName;
+}
+
+<div class="media">
+    <div class="media-body">
+        <h5 class="mt-0">@Model.FirstName @Model.LastName</h5>
+        <p>Age: @Model.Age</p>
+        <p>Position: @Model.Position</p>
+        <p>Team: @Model.Team.Name  <a class="btn btn-primary" asp-controller="Teams" asp-action="TeamById" asp-route-id="@Model.Team.Id">More details for team</a></p>
+        <p>Country: @Model.Country.Name  <a class="btn btn-primary" asp-controller="Countries" asp-action="CountryById" asp-route-id="@Model.Country.Id">More details for country</a></p>
+    </div>
+</div>
