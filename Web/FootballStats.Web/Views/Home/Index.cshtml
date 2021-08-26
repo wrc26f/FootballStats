@@ -9,24 +9,27 @@
     <h1 class="display-4"> Welcome to @GlobalConstants.SystemName!</h1>
     <div class="row">
         <div class="col-md-6">
-            <p>Match of the day</p>
-            <div class="card justify-content-sm-center" style="width: 22rem;">
-                <img src="match.HomeTeamLeagueUrlImage" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        match.HomeTeam.Name
-                        (homeGoals)-(awayGoals) match.AwayTeam.Name
-                    </h5>
-                    <p class="card-text">match.DateMatch</p>
-                    <a href="#" class="btn btn-primary">Details</a>
-                </div>
-            </div>
-            <br />
-            @if (this.User.IsInRole(GlobalConstants.AdministratorRoleName))
+            @if (Model.ChosenMatch != null)
             {
-                <select id='matchDropdown' class="form-control" asp-items="matchItems"></select>
+                <h2>Today matches</h2>
+                <div class="card justify-content-sm-center" style="width: 22rem;">
+                    <img id='urlImage' src="@Model.ChosenMatch.HomeTeamLeagueUrlImage"  class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">
+                            <span id="homeTeamId">@Model.ChosenMatch.HomeTeam.Name</span>-<span id="awayTeamId">@Model.ChosenMatch.AwayTeam.Name</span>
+                        </h5>
+                        <p id='dateMatch'class="card-text">@Model.ChosenMatch.DateMatch</p>
+                        <a id ='detailsId' asp-controller="Matches" asp-action="Details" asp-route-id="@Model.ChosenMatch.Id" class="btn btn-primary">Details</a>
+                    </div>
+                </div>
+                <br />
+                <select id='matchDropdown' asp-for="ChosenMatch.Id" class="form-control" asp-items="matchItems"></select>
+                <br /><hr></hr><br />
             }
-            <br /><hr></hr><br />
+            else
+            {
+                <h2>No matches Today!</h2>
+            }
             <table class="table table-striped">
                 <thead>
                     <tr>
@@ -60,16 +63,26 @@
 </div>
 
 @section Scripts{
-    <script>$("#matchDropdown").change(function () {
-        var matchId = $("#matchDropdown").val();
+    <script>
 
-        var data = { matchId: matchId };
+        $("#matchDropdown").change(function () {
+            var matchId = $("#matchDropdown").val();
 
+            var data = { matchId: matchId };
 
-        $.get("/api/Price", { matchId: matchId })
-            .done(function (data) {
-                $("#price").val(data.price + ' lv');
-            });
-    });</script>
+            $.get("/api/ChosenMatch", { matchId: matchId })
+                .done(function (data) {
+                    let test1 = data;
+                    console.log(test1);
+                    document.getElementById("dateMatch").textContent = data.dateMatch;
+                    document.getElementById('urlImage').src = data.homeTeamLeagueUrlImage;
+                    document.getElementById('homeTeamId').textContent = data.homeTeam.name;
+                    document.getElementById('awayTeamId').textContent = data.awayTeam.name;
+                    document.getElementById('detailsId').href = 'Matches/Details/' + data.id;
+                });
+        });
+    </script>
 }
+
+
 

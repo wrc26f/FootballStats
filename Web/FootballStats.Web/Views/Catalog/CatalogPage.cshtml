@@ -15,27 +15,22 @@
             <div class=" form group col-md-12">
                 <div class="form-group">
                     <label asp-for="ChosenDate"></label>
-                    <input asp-for="ChosenDate" class="form-control" value="@Model.ChosenDate" type="date" />
+                    <input asp-for="ChosenDate" class="form-control" value="@Model.ChosenDate" type="date"/>
                     <span asp-validation-for="ChosenDate" class=" text-danger"></span>
-                </div>
-                <input type="submit" class="btn btn-primary btn-sm" />
-            </div>
-        </form>
-        <form>
-            <div class="form-group">
-                <label asp-for="LeagueId"></label>
-                <select asp-for="LeagueId" class="form-control" asp-items="leagueItems"></select>
-                <span asp-validation-for="LeagueId" class=" text-danger"></span>
-            </div>
+                     <label asp-for="LeagueId"></label>
+                     <select asp-for="LeagueId" class="form-control" asp-items="leagueItems"></select>
+                     <span asp-validation-for="LeagueId" class=" text-danger"></span>
+                 </div>
             <input type="submit" class="btn btn-primary btn-sm" />
         </form>
     </div>
 </div>
-<br /><hl></hl><br />
+<br /><hl></hl>
+<br />
 <div class="row">
-    @if (@Model.MatchesList.Count() == 0)
+    @if (Model.MatchesList.Count() == 0)
     {
-    <p>No matches today!</p>
+        <p>No matches today!</p>
     }
     @foreach (var match in Model.MatchesList)
     {
@@ -63,3 +58,4 @@
         <li class="page-item @if (!Model.HasNextPage) { <text>disabled</text>}"><a class="page-link" asp-route-id="@(Model.NextPage)">Next</a></li>
     </ul>
 </nav>
+

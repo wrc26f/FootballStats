@@ -26,5 +26,7 @@
         public int HomeTeamLeagueId { get; set; }
 
         public string HomeTeamLeagueUrlImage { get; set; }
+
+        public bool IsMatchOfTheDay { get; set; }
     }
 }

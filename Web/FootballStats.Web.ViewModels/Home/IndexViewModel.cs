@@ -24,6 +24,6 @@
 
         public IEnumerable<KeyValuePair<int, string>> MatchItems { get; set; }
 
-        public MatchViewModel MatchOfTheDay{ get; set; }
+        public MatchViewModel ChosenMatch{ get; set; }
     }
 }

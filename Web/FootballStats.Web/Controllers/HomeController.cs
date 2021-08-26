@@ -1,11 +1,13 @@
 ﻿namespace FootballStats.Web.Controllers
 {
+    using System;
     using System.Diagnostics;
-
+    using System.Linq;
     using FootballStats.Services.Data;
     using FootballStats.Web.ViewModels;
     using FootballStats.Web.ViewModels.Home;
     using FootballStats.Web.ViewModels.Leagues;
+    using FootballStats.Web.ViewModels.Matches;
     using Microsoft.AspNetCore.Mvc;
 
     public class HomeController : BaseController
@@ -30,6 +32,13 @@
             viewModel = this.getCountsOfEntities.GetAllCount();
             viewModel.LeagueItems = this.leagueService.GetLeagueDailyMatches();
             viewModel.MatchItems = this.matchService.GetAllDailyMatchesAsKeyValuePair();
+            viewModel.ChosenMatch = this.matchService.GetAllMatches<MatchViewModel>().Where(x => x.DateMatch == DateTime.Now.Date && x.IsMatchOfTheDay == true).FirstOrDefault();
+            var test = this.matchService.GetAllMatches<MatchViewModel>();
+            if (viewModel.ChosenMatch == null)
+            {
+                viewModel.ChosenMatch = this.matchService.GetAllMatches<MatchViewModel>().Where(x => x.DateMatch.Date == DateTime.Now.Date).FirstOrDefault();
+            }
+
             return this.View(viewModel);
         }
 

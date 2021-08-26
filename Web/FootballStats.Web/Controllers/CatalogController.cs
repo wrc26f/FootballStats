@@ -34,12 +34,12 @@
             if (chosenDate == "")
             {
                 viewModel.ChosenDate = DateTime.Now.Date;
-                viewModel.MatchesList = viewModel.MatchesList.Where(x => x.DateMatch == DateTime.Now.Date);
+                viewModel.MatchesList = viewModel.MatchesList.Where(x => x.DateMatch.Date == DateTime.Now.Date);
             }
             else
             {
                 viewModel.ChosenDate = DateTime.Parse(chosenDate);
-                viewModel.MatchesList = viewModel.MatchesList.Where(x => x.DateMatch == DateTime.Parse(chosenDate));
+                viewModel.MatchesList = viewModel.MatchesList.Where(x => x.DateMatch.Date == DateTime.Parse(chosenDate).Date);
             }
             return this.View(viewModel);
         }
